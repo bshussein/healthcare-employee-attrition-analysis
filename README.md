@@ -60,9 +60,9 @@ https://public.tableau.com/app/profile/bander.hussein/viz/HealthcareDashboard_17
 
 ## Dashboard Preview
 
-![Overview](Images/overview.png)
-![Drivers](Images/drivers.png)
-![Recommendations](Images/recommendations.png)
+![Overview](Images/Overview.png)
+![Drivers](Images/Drivers.png)
+![Recommendations](Images/Recommendations.png)
 
 ## Project Deliverables
 
