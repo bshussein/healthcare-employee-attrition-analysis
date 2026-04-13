@@ -58,6 +58,12 @@ The analysis combines SQL-based data exploration with an interactive Tableau das
 View the interactive Tableau dashboard:  
 https://public.tableau.com/app/profile/bander.hussein/viz/HealthcareDashboard_17722712211600/Overview
 
+## Dashboard Preview
+
+![Overview](images/overview.png)
+![Drivers](images/drivers.png)
+![Recommendations](images/recommendations.png)
+
 ## Project Deliverables
 
 - SQL analysis (`analysis.sql`)
